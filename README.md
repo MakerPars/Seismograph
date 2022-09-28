@@ -1,2 +1,2 @@
 # Seismograph
-Raspberry Pi- ADS1115 Seismograph Project
+Raspberry Pi- ADS1115 Seismograph Project with Plotting
